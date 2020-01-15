@@ -9,3 +9,7 @@ This website hosts the technical documentation for the [Open Source libraries an
 
 - [@relaycorp/relaynet-core](./relaynet-core-js/).
 - [@relaycorp/relaynet-pohttp](./relaynet-pohttp-js/).
+
+## Server-side applications
+
+- [Pong service](./relaynet-pong/).
