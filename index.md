@@ -11,6 +11,10 @@ This website hosts the technical documentation for the [Open Source libraries an
 - [@relaycorp/relaynet-pohttp](./relaynet-pohttp-js/).
 - [@relaycorp/cogrpc](./relaynet-cogrpc-js/).
 
+## JVM Libraries
+
+- [tech.relaycorp.relaynet](./relaynet-jvm/).
+
 ## Server-side applications
 
 - [Pong service](./relaynet-pong/).
