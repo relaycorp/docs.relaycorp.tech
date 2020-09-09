@@ -13,7 +13,8 @@ This website hosts the technical documentation for the [Open Source libraries an
 
 ## JVM Libraries
 
-- [tech.relaycorp.relaynet](./relaynet-jvm/).
+- [tech.relaycorp:relaynet](./relaynet-jvm/).
+- [tech.relaycorp:relaynet-testing](./relaynet-jvm-testing/).
 
 ## Server-side applications
 
