@@ -18,4 +18,5 @@ This website hosts the technical documentation for the [Open Source libraries an
 
 ## Server-side applications
 
+- [Relaynet-Internet Gateway](./relaynet-internet-gateway/).
 - [Pong service](./relaynet-pong/).
